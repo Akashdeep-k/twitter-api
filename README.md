@@ -28,3 +28,4 @@ $ npm start
 The app wil start on http://localhost:5000
 
 ## API Documentation : <a href="https://documenter.getpostman.com/view/26894077/2s9YsMAWx4">click here</a>
+## API Deployment : <a href="https://twitter-api.up.railway.app/">https://twitter-api.up.railway.app/</a>
